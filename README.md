@@ -1,2 +1,2 @@
 # cpyod-server-side
-Cypod solution task 
+Server side repo
